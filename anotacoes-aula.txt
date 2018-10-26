@@ -1,0 +1,11 @@
+ciclo de vida 
+
+untracked == O momento que o arquivo foi adicionado no repositório, mas ainda não foi visto pelo git.
+
+unmodified == Quando adiciona este arquivo e aparece no git, ele ainda não foi modificado.
+
+modified == quando o arquivo foi modificado
+
+staged == QUando joga o arquivo para a área onde vai ser criada a versão. 
+
+ 
